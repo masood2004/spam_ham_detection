@@ -127,6 +127,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or support, feel free to contact:
 
-Name: Syed Masood Hussain
-Email: hmasood3288@gmail.com
-GitHub: masood2004
+- Name: Syed Masood Hussain
+- Email: hmasood3288@gmail.com
+- GitHub: masood2004
